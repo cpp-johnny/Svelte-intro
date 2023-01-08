@@ -17,6 +17,8 @@ In Svelte, you do this with the special {@html ...} tag:
 
 --->
 
+<!--- solution --->
+
 <script>
 	let string = `this string contains some <strong>HTML!!!</strong>`;
 </script>
