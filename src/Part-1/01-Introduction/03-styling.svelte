@@ -11,7 +11,7 @@
 Just like in HTML, you can add a <style> tag to your component. Let's add some styles to the <p> element
 --->
 
-
+<!--- solution --->
 <p>This is a paragraph.</p>
 
 <style>
