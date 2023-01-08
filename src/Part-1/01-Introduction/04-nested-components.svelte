@@ -21,6 +21,11 @@ Add a <script> tag that imports Nested.svelte...
 
 --->
 
+
+
+<!--- solution --->
+
+
 <!--- in src/app.svelte --->
 <script>
 	import Nested from './Nested.svelte';
