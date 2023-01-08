@@ -36,7 +36,7 @@ We can use curly braces inside attributes. Try changing it to "{name} dances." â
 
 --->
 
-
+<!--- solution --->
 <script>
 	let src = '/image.gif';
 	let name = 'Rick Astley';
